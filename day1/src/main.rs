@@ -1,3 +1,10 @@
 fn main() {
-    println!("Hello, world!");
+    println!("-------------------------------------------------");
+    println!("| ||                                   !");
+    println!("|| ||                                   !");
+println!("Hello, world!");
+println!("Hello, world!");
+println!("Hello, world!");
+println!("Hello, world!");
+// some pattern 
 }

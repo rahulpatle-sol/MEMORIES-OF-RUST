@@ -1,12 +1,26 @@
 
-    fn main() {
-        let a = [10, 20, 30, 40, 50];
-        let mut index = 0;
-        while index < 5 {
-        println!("the value is: {}", a[index]);
-               index += 1;
-           }
-        }
+ // day4 looping into the rust 
+
+ // while loop 
+ fn main(){
+  let mut x:u32=0;
 
 
-//  
+  while x <10{
+println!("loops is started");
+x=x+1;
+
+  }
+
+
+
+    let v = &["apples", "cake", "coffee","pizza"];
+    for text in v {
+        println!("I like {}.", text);
+
+}
+let lang=&["kotlin","java","python","rust"];
+for code in lang{
+    println!("I like {}.", code);
+}
+ }
