@@ -1,1 +1,1 @@
-D:\Rust\ master\memories-of-rust\day7\target\debug\day7.exe: D:\Rust\ master\memories-of-rust\day7\src\main.rs
+D:\Rust\ master\MEMORIES-OF-RUST\day7\target\debug\day7.exe: D:\Rust\ master\MEMORIES-OF-RUST\day7\src\main.rs
